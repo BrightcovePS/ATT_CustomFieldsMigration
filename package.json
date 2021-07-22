@@ -14,7 +14,7 @@
     "ooyala-api": "^0.14.1",
     "request": "^2.88.0",
     "sync-request": "^6.1.0",
-    "xlsx": "^0.15.4"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {},
   "scripts": {
